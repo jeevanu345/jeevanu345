@@ -1,43 +1,22 @@
+### Hi there 👋
+
+# Hi 👋, I'm Jeevan U. Gowda
+#### A passionate Full-Stack Developer and AI/ML Enthusiast 
+
 ![](https://github.com/jeevanu345/jeevanu345/blob/main/banner.png)
+*
 
-# 👋 Hey ya'll
+### Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/jeevanu345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeevanu345" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/jeevanu345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jeevanu345" height="30" width="40" /></a>
+<a href="https://kaggle.com/jeevanu345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jeevanu345" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jeevanu345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jeevanu345" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jeevanu345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jeevanu345" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/jeevanu345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jeevanu345" height="30" width="40" /></a>
+</p>
 
-*Its* **Jeevan U. Gowda**
-
-### Full-Stack Developer || AI/ML Enthusiast || Music Producer || Football Player || NFC/IoT Innovator
-
-**ISE BMSCE '26, Bangalore, India**
-
-![](https://komarev.com/ghpvc/?username=jeevanu345&label=Profile%20views&color=brightgreen&style=flat)
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jeevanu345)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeevanu345)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jeevanu345@gmail.com)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/jeevanu345/)
-[![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-0F9D58?style=flat&logo=GeeksForGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/jeevanu345)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/jeevanu345)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/jeevanu345)
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/jeevanu345)
-
-- 🌱 I'm trying to master **Full-Stack Web Development, AI/ML, NFC/IoT Technologies, and Cloud Computing**
-- 💬 Ask me about **Full-Stack Development, AI/ML, React Native, NFC/IoT, Python, JavaScript, C++, Node.js, Data Science, etc**
-- 📫 How to reach me? Mail to **jeevanu345@gmail.com**
-
----
-
-## 🔗 Connect with me on 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeevanu345)
-[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/jeevanu345)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/jeevanu345)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/jeevanu345/)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/jeevanu345)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/jeevanu345)
-
----
-
-## 💻 Technologies and Languages:
-
+### Languages and Tools:
 <p align="left">
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -64,3 +43,9 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeevanu345&show_icons=true&locale=en&layout=compact" alt="jeevanu345" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeevanu345&show_icons=true&locale=en" alt="jeevanu345" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeevanu345&" alt="jeevanu345" /></p>
