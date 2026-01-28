@@ -1,4 +1,4 @@
-#  Jeevan U Gowda
+#  Jeevan U 
 
 **`Digital Craftsman (Full-Stack Developer/AI-ML Enthusiast)`**
 
