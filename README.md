@@ -8,18 +8,18 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%2F+ML+Engineer+%F0%9F%A7%A0;Building+what+doesn't+exist+yet+%E2%9C%A8;Ship.+Learn.+Repeat.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Full-Stack+Developer;AI+%2F+ML+Engineer;Building+what+doesn't+exist+yet;Ship.+Learn.+Repeat.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## ⚡ About Me
+## About Me
 
 ```python
 class JeevanU:
     role        = ["Full-Stack Developer", "AI/ML Engineer", "System Architect"]
-    location    = "Bangalore, India 🇮🇳"
+    location    = "Bangalore, India"
     philosophy  = "Build fast. Think deep. Ship what matters."
     current     = "Crafting intelligent systems that actually work"
 
@@ -34,7 +34,43 @@ class JeevanU:
 
 ---
 
-## 🛠️ Tech Arsenal
+## Languages and Tools
+
+<p align="left">
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="40" height="40"/></a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cplusplus" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="django" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="40" height="40"/></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="flask" width="40" height="40"/></a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://github.com/jeevanu345" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="40" height="40"/></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="40" height="40"/></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+</p>
+
+---
+
+## Tech Arsenal
 
 <div align="center">
 
@@ -44,9 +80,11 @@ class JeevanU:
 ![TypeScript](https://img.shields.io/badge/TypeScript-0f0c29?style=for-the-badge&logo=typescript&logoColor=a78bfa)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=a78bfa)
 ![C++](https://img.shields.io/badge/C++-0f0c29?style=for-the-badge&logo=cplusplus&logoColor=a78bfa)
+![C](https://img.shields.io/badge/C-0f0c29?style=for-the-badge&logo=c&logoColor=a78bfa)
 ![Java](https://img.shields.io/badge/Java-0f0c29?style=for-the-badge&logo=openjdk&logoColor=a78bfa)
 ![Dart](https://img.shields.io/badge/Dart-0f0c29?style=for-the-badge&logo=dart&logoColor=a78bfa)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0f0c29?style=for-the-badge&logo=kotlin&logoColor=a78bfa)
+![MATLAB](https://img.shields.io/badge/MATLAB-0f0c29?style=for-the-badge&logo=mathworks&logoColor=a78bfa)
 
 **AI / ML**
 
@@ -55,6 +93,7 @@ class JeevanU:
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-0f0c29?style=for-the-badge&logo=scikitlearn&logoColor=a78bfa)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0f0c29?style=for-the-badge&logo=opencv&logoColor=a78bfa)
 ![Pandas](https://img.shields.io/badge/Pandas-0f0c29?style=for-the-badge&logo=pandas&logoColor=a78bfa)
+![Seaborn](https://img.shields.io/badge/Seaborn-0f0c29?style=for-the-badge&logo=python&logoColor=a78bfa)
 
 **Frameworks & Infra**
 
@@ -66,6 +105,9 @@ class JeevanU:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0f0c29?style=for-the-badge&logo=kubernetes&logoColor=a78bfa)
 ![AWS](https://img.shields.io/badge/AWS-0f0c29?style=for-the-badge&logo=amazonaws&logoColor=a78bfa)
 ![Firebase](https://img.shields.io/badge/Firebase-0f0c29?style=for-the-badge&logo=firebase&logoColor=a78bfa)
+![Linux](https://img.shields.io/badge/Linux-0f0c29?style=for-the-badge&logo=linux&logoColor=a78bfa)
+![Git](https://img.shields.io/badge/Git-0f0c29?style=for-the-badge&logo=git&logoColor=a78bfa)
+![Postman](https://img.shields.io/badge/Postman-0f0c29?style=for-the-badge&logo=postman&logoColor=a78bfa)
 
 **Databases**
 
@@ -77,7 +119,7 @@ class JeevanU:
 
 ---
 
-## 📊 GitHub Metrics
+## GitHub Metrics
 
 <div align="center">
 
@@ -94,20 +136,20 @@ class JeevanU:
 
 ---
 
-## 🧩 What I Build
+## What I Build
 
 | Domain | What I create |
 |---|---|
-| 🤖 **AI Systems** | RAG pipelines, LLM-powered tools, CV models, recommendation engines |
-| 🌐 **Full-Stack** | End-to-end web apps with modern frontends and robust backends |
-| 📱 **Mobile** | Cross-platform apps with Flutter & native Android in Kotlin |
-| ⛓️ **Blockchain** | Decentralized protocols, censorship-resistant systems |
-| ⚙️ **DevOps** | Automation scripts, containerized deployments, cloud pipelines |
-| 🔬 **Research** | Bioinformatics tools, data analysis, scientific computing |
+| **AI Systems** | RAG pipelines, LLM-powered tools, CV models, recommendation engines |
+| **Full-Stack** | End-to-end web apps with modern frontends and robust backends |
+| **Mobile** | Cross-platform apps with Flutter and native Android in Kotlin |
+| **Blockchain** | Decentralized protocols, censorship-resistant systems |
+| **DevOps** | Automation scripts, containerized deployments, cloud pipelines |
+| **Research** | Bioinformatics tools, data analysis, scientific computing |
 
 ---
 
-## 🌐 Connect
+## Connect
 
 <div align="center">
 
