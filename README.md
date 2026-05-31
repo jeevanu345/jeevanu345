@@ -4,7 +4,7 @@
 
 </div>
 
----
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jeevanu345.jeevanu345" />
 
 <div align="center">
 
@@ -32,9 +32,33 @@ class JeevanU:
         ]
 ```
 
+<br/>
+
+<div align="center">
+
+🔭 I'm currently working on **intelligent full-stack systems**
+
+🌱 I'm currently learning **LLM fine-tuning, RAG pipelines, cloud-native DevOps**
+
+💬 Ask me about **Python, Next.js, AI/ML, Flutter... or anything [here](https://github.com/jeevanu345/jeevanu345/issues)**
+
+⚡ Fun fact **I debug at 2AM and somehow that's when the best ideas hit**
+
+</div>
+
 ---
 
-## Languages and Tools
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jeevanu345-0f0c29?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com/in/jeevanu345)
+[![GitHub](https://img.shields.io/badge/GitHub-jeevanu345-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/jeevanu345)
+[![Email](https://img.shields.io/badge/Email-jeevanu345@gmail.com-0f0c29?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:jeevanu345@gmail.com)
+
+</div>
+
+<hr/>
+
+## ⚒️ Languages & Tools ⚒️
 
 <p align="left">
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="40" height="40"/></a>
@@ -68,7 +92,14 @@ class JeevanU:
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 </p>
 
----
+<br/>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,django,flask,flutter,docker,kubernetes,aws,firebase,git" />
+    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,c,dart,kotlin,mongodb,postgresql,mysql,linux" /><br>
+</div>
+
+<hr/>
 
 ## Tech Arsenal
 
@@ -117,24 +148,30 @@ class JeevanU:
 
 </div>
 
----
+<hr/>
 
-## GitHub Metrics
+## 🐍 My Contributions 🐍
+
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jeevanu345/jeevanu345/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+## ⚡ GitHub Stats ⚡
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeevanu345&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanu345&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff&langs_count=8"/>
+<img width=390 src="https://streak-stats.demolab.com?user=jeevanu345&theme=midnight-purple&hide_border=true&background=0f0c29&stroke=a78bfa&ring=a78bfa&fire=ffffff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888" alt="streak stats"/>
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=jeevanu345&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true&rank_icon=github" alt="readme stats"/>
+<br/>
+<img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanu345&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff&langs_count=8" alt="top langs"/>
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jeevanu345&theme=midnight-purple&hide_border=true&background=0f0c29&stroke=a78bfa&ring=a78bfa&fire=ffffff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888)](https://git.io/streak-stats)
-
-</div>
-
----
+<hr/>
 
 ## What I Build
 
@@ -147,19 +184,7 @@ class JeevanU:
 | **DevOps** | Automation scripts, containerized deployments, cloud pipelines |
 | **Research** | Bioinformatics tools, data analysis, scientific computing |
 
----
-
-## Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jeevanu345-0f0c29?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com/in/jeevanu345)
-[![GitHub](https://img.shields.io/badge/GitHub-jeevanu345-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/jeevanu345)
-[![Email](https://img.shields.io/badge/Email-jeevanu345@gmail.com-0f0c29?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:jeevanu345@gmail.com)
-
-</div>
-
----
+<hr/>
 
 <div align="center">
 
