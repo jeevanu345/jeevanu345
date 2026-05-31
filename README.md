@@ -92,13 +92,6 @@ class JeevanU:
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 </p>
 
-<br/>
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,django,flask,flutter,docker,kubernetes,aws,firebase,git" />
-    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,c,dart,kotlin,mongodb,postgresql,mysql,linux" /><br>
-</div>
-
 <hr/>
 
 ## Tech Arsenal
