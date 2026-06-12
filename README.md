@@ -36,13 +36,13 @@ class JeevanU:
 
 <div align="center">
 
-🔭 I'm currently working on **intelligent full-stack systems**
+ I'm currently working on **intelligent full-stack systems**
 
-🌱 I'm currently learning **LLM fine-tuning, RAG pipelines, cloud-native DevOps**
+ I'm currently learning **LLM fine-tuning, RAG pipelines, cloud-native DevOps**
 
-💬 Ask me about **Python, Next.js, AI/ML, Flutter... or anything [here](https://github.com/jeevanu345/jeevanu345/issues)**
+ Ask me about **Python, Next.js, AI/ML, Flutter... or anything [here](https://github.com/jeevanu345/jeevanu345/issues)**
 
-⚡ Fun fact **I debug at 2AM and somehow that's when the best ideas hit**
+ Fun fact **I debug at 2AM and somehow that's when the best ideas hit**
 
 </div>
 
@@ -143,7 +143,7 @@ class JeevanU:
 
 <hr/>
 
-## 🐍 My Contributions 🐍
+##  My Contributions 
 
 <div align="center">
   <br>
@@ -153,7 +153,7 @@ class JeevanU:
 
 <hr/>
 
-## ⚡ GitHub Stats ⚡
+##  GitHub Stats 
 
 <div align="center">
 
