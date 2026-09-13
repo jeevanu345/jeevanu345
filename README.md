@@ -1,164 +1,139 @@
+<div align="center">
+
 # Jeevan U
 
-Software engineer working across AI systems, distributed systems, developer tooling, and full-stack engineering.
+### Software Engineering · AI Systems · Distributed Systems
 
-I’m interested in building systems where machine learning meets real software infrastructure: retrieval systems, autonomous agents, distributed services, efficient inference, developer tools, and production-grade AI applications.
+Software engineer focused on artificial intelligence, distributed systems, developer infrastructure, and full-stack engineering.
 
-[LinkedIn](https://linkedin.com/in/jeevanu345) · [GitHub](https://github.com/jeevanu345) · [Email](mailto:jeevanu345@gmail.com)
+<br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jeevanu345-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeevanu345)
+[![GitHub](https://img.shields.io/badge/GitHub-jeevanu345-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jeevanu345)
 
-## Work
-
-### Brillio
-**Software Engineer**
-
-Working on AI and agentic engineering systems, including:
-
-- LLM-powered developer tooling
-- RAG and knowledge-graph systems
-- MCP-based integrations and agent workflows
-- VS Code extensions and CLI tooling
-- Enterprise AI platform components
-- Synthetic monitoring and observability systems
-
-### Samsung R&D Institute Bengaluru
-**Research & Development Intern — PRISM**
-
-Worked on cross-agent contextual information storage and retrieval for multi-agent AI systems, improving contextual continuity and coordination across agent workflows.
+</div>
 
 ---
 
-## Selected Projects
+## Engineering
 
-### RaftKV
+My work and interests span:
 
-A distributed key-value store implemented in Rust using the Raft consensus algorithm.
-
-**Rust · gRPC · tonic · Redis RESP · sled · Docker · Kubernetes · Helm · Grafana**
-
-- Leader election and replicated log implementation
-- Failure recovery and deterministic consensus behavior
-- Redis-compatible RESP2/RESP3 interface
-- gRPC communication between cluster nodes
-- Consensus core implemented as a pure state machine
-- Deterministic simulation testing
-- Containerized multi-node deployments
-
-[View repository](https://github.com/jeevanu345)
+- Artificial Intelligence and Machine Learning
+- Large Language Models and Agentic Systems
+- Retrieval-Augmented Generation
+- Distributed Systems
+- Backend and Systems Engineering
+- Developer Tools and Infrastructure
+- Cloud-Native Systems
+- Full-Stack Engineering
+- Observability and Reliability
+- Efficient AI Inference
 
 ---
 
-### Code Repair Agent
+## Languages
 
-An execution-grounded software engineering agent designed to autonomously resolve repository-level issues.
+<div align="center">
 
-**Python · TRL · GRPO · vLLM · Docker · Ray · PostgreSQL · Redis · Terraform · Prometheus**
+<img src="https://skillicons.dev/icons?i=python,rust,cpp,c,java,js,ts,dart" />
 
-- ReAct-based autonomous coding loop
-- Repository exploration and code modification tools
-- Sandboxed command and test execution
-- Execution outcomes used as reinforcement-learning signals
-- Ephemeral Docker environments with resource isolation
-- Designed around SWE-bench style software engineering tasks
-
-[View repository](https://github.com/jeevanu345)
+</div>
 
 ---
 
-### NCERT RAG
+## AI / Machine Learning
 
-A retrieval-augmented question-answering system for NCERT educational material.
+<div align="center">
 
-**Python · LangChain · Chroma · FAISS · Ollama · Streamlit**
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 
-- Semantic document retrieval
-- Vector search over textbook content
-- Context-aware conversational retrieval
-- Local LLM inference
-- PDF ingestion and structured chunking
+<br/><br/>
 
-[View repository](https://github.com/jeevanu345)
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM_Agents-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/vLLM-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GRPO-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FAISS-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Chroma-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white" />
 
----
-
-### TapCart
-
-An NFC-based retail system for product discovery, purchasing, and inventory synchronization.
-
-**React Native · Node.js · Express · NFC · Cloud APIs**
-
-- Smartphone-based NFC product interaction
-- Real-time inventory synchronization
-- Mobile purchasing workflow
-- Backend APIs for product and transaction management
-
-[View repository](https://github.com/jeevanu345)
+</div>
 
 ---
 
-## Research
+## Frontend
 
-### HardRoute
+<div align="center">
 
-**Hardware-Telemetry-Aware Energy-Constrained Routing for On-Device Mixture-of-Experts Inference**
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,vite,html,css" />
 
-Runtime MoE routing conditioned on hardware telemetry including battery state, junction temperature, and DVFS state.
-
-The system explores energy-aware expert selection under per-token energy constraints for efficient on-device inference.
-
-Tested across modern mobile SoCs including Apple A17 Pro, Snapdragon 8 Gen 3, and Dimensity 9300.
+</div>
 
 ---
 
-## Engineering Interests
+## Backend
 
-```text
-AI Systems
-├── LLM agents
-├── Retrieval-augmented generation
-├── Multi-agent systems
-├── Reinforcement learning
-└── Efficient inference
+<div align="center">
 
-Systems
-├── Distributed systems
-├── Consensus protocols
-├── Cloud-native infrastructure
-├── Observability
-└── Reliability
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi" />
 
-Developer Infrastructure
-├── CLI tooling
-├── MCP servers
-├── IDE integrations
-├── Automation
-└── AI-assisted development
-```
+</div>
 
 ---
 
-## Technology
+## Databases
 
-### Languages
+<div align="center">
 
-`Python` `Rust` `C++` `Java` `JavaScript` `TypeScript` `C`
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" />
 
-### AI / ML
+<br/><br/>
 
-`PyTorch` `LangChain` `RAG` `GRPO` `TRL` `vLLM` `Chroma` `FAISS` `Ollama`
+<img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
 
-### Backend / Systems
+</div>
 
-`Node.js` `Express` `gRPC` `PostgreSQL` `Redis` `MongoDB` `Neo4j`
+---
 
-### Infrastructure
+## Infrastructure
 
-`Docker` `Kubernetes` `Helm` `Terraform` `Linux` `AWS` `Prometheus` `Grafana`
+<div align="center">
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,linux,git,github" />
 
-`React` `React Native` `Next.js` `TypeScript` `Tailwind CSS`
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+
+</div>
+
+---
+
+## Systems & Developer Infrastructure
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Distributed_Systems-111111?style=for-the-badge" />
+
+</div>
+
+---
+
+## Mobile
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" />
+
+</div>
 
 ---
 
@@ -166,20 +141,30 @@ Developer Infrastructure
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jeevanu345&show_icons=true&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jeevanu345&show_icons=true&hide_border=true&count_private=true&rank_icon=github" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanu345&layout=compact&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanu345&layout=compact&hide_border=true&langs_count=8" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=jeevanu345&hide_border=true" />
 
 </div>
 
 ---
 
-## Contact
+## Contributions
 
-For engineering, research, or collaboration:
+<div align="center">
 
-[linkedin.com/in/jeevanu345](https://linkedin.com/in/jeevanu345)
+<img src="https://raw.githubusercontent.com/jeevanu345/jeevanu345/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%" />
 
-[github.com/jeevanu345](https://github.com/jeevanu345)
+</div>
 
-[jeevanu345@gmail.com](mailto:jeevanu345@gmail.com)
+---
+
+<div align="center">
+
+[GitHub](https://github.com/jeevanu345) · [LinkedIn](https://linkedin.com/in/jeevanu345)
+
+</div>
